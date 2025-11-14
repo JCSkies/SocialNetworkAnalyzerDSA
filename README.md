@@ -30,6 +30,15 @@ Implementation (e.g., Kosaraju’s algorithm):
 
 ---
 
+## 🛠 Future Improvements
+1. Add a proper JavaFX UI for visualizing the graph
+2. Import / export data from CSV or external APIs
+3. More metrics: PageRank-style influence, shortest paths, clustering
+
+4. Unit tests for each core method
+
+---
+
 ## 🚀 Getting Started
 
 ### Clone the Repository
